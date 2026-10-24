@@ -1,0 +1,513 @@
+                     MERIT MEDICAL SYSTEMS, INC.
+                                   Prepared for the Merit Medical Case Competition
+                                          BYU Ballard Center, Business for Good​
+
+This case was prepared as a basis for class discussion rather than to illustrate either effective or ineffective handling of a
+business situation. The protagonist and her internal dialogue are dramatized for teaching purposes; facts and figures are drawn
+from public sources cited in the endnotes. The supplier segmentation in Exhibit 3 and the strategy comparison in Exhibit 5 are
+illustrative composites created for classroom discussion and do not represent named, real suppliers or confidential company
+data.
+
+
+Introduction
+
+In late February 2026, Alisha Jerauld, Merit Medical's Vice President of Environmental, Social, and
+Governance (ESG), had two contradictory reports on her desk. The first was a draft press release for
+Merit's third Newsweek sustainability recognition in a year.i The second was an internal rollout report
+showing that most of Merit's suppliers had not yet completed the sustainability assessment the company
+had asked them to fill out. The response rates were thinnest among smaller manufacturers in Mexico and
+China, exactly the regions Merit's own research had flagged as having the least developed rules for
+tracking emissions and labor practices.ii Merit's growing pile of public awards was starting to invite a
+harder question: did the story match the substance behind it? Alisha had six weeks to bring the Board's
+Governance and Sustainability Committee a plan that answered both problems at once.
+
+
+Company Overview
+
+"Merit Medical Systems, Inc. is a leading manufacturer and marketer of proprietary medical devices used
+in interventional, diagnostic and therapeutic procedures, particularly in cardiology, radiology, oncology,
+critical care and endoscopy. We strive to be the most customer-focused company in healthcare. Each day
+we are determined to make a difference by understanding our customers' needs and innovating and
+delivering a diverse range of products that improve the lives of people and communities throughout the
+world. We believe that long-term value is created for our customers, employees, shareholders, and
+communities when we focus outward and are determined to deliver an exceptional customer experience.
+Merit Medical Systems, Inc. was founded in 1987 by Fred P. Lampropoulos, Kent W. Stanger, Darla Gill
+and William Padilla. Initially, we focused our operations on injection and insert molding of plastics. Our
+first product was a specialized control syringe used to inject contrast solution into a patient's arteries for a
+diagnostic cardiac procedure called an angiogram. Since that time, our products and product lines have
+expanded substantially, both through internal research and development projects and through strategic
+acquisitions." —Merit Medical Systems, Inc., "Our Company," 2025 Annual Report
+
+Why Merit Matters in Healthcare
+
+Merit's devices are the tools clinicians use to work inside the body without open surgery. Its portfolio
+includes steerable guide wires and diagnostic catheters for navigating blood vessels, drainage catheters,
+embolotherapy products that block blood flow to tumors or deliver chemotherapy to liver cancers, and
+peritoneal dialysis catheters for home dialysis.iii Merit describes these as disposable devices,iv so hospitals
+reorder them continuously. A missing component at one supplier can become a missing device in a
+procedure room.​
+​
+That risk is real across the industry. In a survey by the patient-safety nonprofit ECRI, almost half of
+healthcare professionals said drug, supply, or equipment shortages had delayed patient treatment, and
+some reported surgeries rescheduled, postponed, or canceled.v The FDA has warned that shortages of
+devices including hemodialysis catheters forced clinicians to delay care for children, and noted that U.S.
+manufacturers must report supply disruptions only during a declared public health emergency.vi Because a
+new supplier can take 9–12 months to qualify (Exhibit 2), Merit's supplier relationships are part of patient
+care, not just procurement.​
+
+
+Merit runs this work with roughly 7,100 associates (Exhibit 1), a sales and clinical support team of more
+than 700,vii and manufacturing sites that include its Utah headquarters, Galway (Ireland), Tijuana
+(Mexico), and Singapore. Merit calls Tijuana one of its primary manufacturing and assembly facilities.viii
+
+
+Merit's Goals and Values
+
+Merit's stated vision is to be the most customer-focused company in healthcare,ix and its mission is
+summed up in three words: Understand, Innovate, and Deliver.x In 2024, Merit relaunched its core values
+as "the Merit Way," known by the acronym HEART:xi
+    Value                             How Merit describes it                  Why it matters for this case
+
+
+
+    Health                            Prioritizing the health and safety of   Covers workers across the value
+                                      everyone whose lives Merit touches      chain, not only Merit employees
+
+
+    Excellence                        High standards of honesty, fairness,    Puts supplier conduct inside Merit's
+                                      and integrity, and the expectation      own values
+                                      that supply chain partners meet the
+                                      same standards
+    Value                            How Merit describes it                Why it matters for this case
+
+
+
+    Agility                          Country-by-country risk analysis so   Ties supplier resilience directly to
+                                     devices keep reaching patients even   patient care
+                                     during disruption
+
+    Responsibility                   Measuring Merit's environmental       Raises the stakes on unmeasured
+                                     footprint year after year             Scope 3 emissions
+
+    Teamwork                         "We listen"; building an inclusive    Suggests suppliers should be heard,
+                                     culture and meaningful work           not just surveyed
+
+Merit also has hard financial commitments. In February 2024 it launched its Continued Growth
+Initiatives program, with three targets for the three years ending December 31, 2026:xii
+     ●​ 5%–7% compound annual revenue growth (organic, constant currency)
+     ●​ A non-GAAP operating margin of 20%–22% in 2026
+     ●​ At least $400 million in cumulative free cash flow
+​
+In 2025, Merit delivered 6.8% organic constant-currency growth, a 20.3% non-GAAP operating margin,
+and more than $215 million in free cash flow, leaving 2026 as the program's final year.xiii
+Taken together, these goals set the bar for Alisha's plan. It has to serve hospital customers who
+increasingly screen suppliers on ESG, live up to a value statement that already promises supplier
+standards, protect the supply continuity that patients depend on, and fit within a company that has
+publicly committed to margin and cash discipline.
+
+
+Merit's Sustainability Program
+
+Merit's Board of Directors oversees ESG issues through a Governance and Sustainability Committee,
+supported by an internal Corporate Sustainability Council that Alisha chairs.xiv In 2024–2025, an outside
+firm ran a structured materiality assessment, surveying employees, suppliers, and customers on which
+environmental and social issues mattered most, and identified ten priority topics, including the working
+conditions of employees across Merit's value chain and how fairly Merit manages its size advantage over
+smaller suppliers.xv Merit has also set a goal of cutting its own direct (Scope 1 and 2) greenhouse gas
+emissions 40 percent by 2030 versus a 2020 baseline. Progress has been mixed: emissions rose 2 percent
+in 2025 even as renewable electricity use climbed to 27 percent. Merit has not yet finished measuring
+Scope 3 emissions — those created by suppliers, shippers, and product disposal, which for most
+manufacturers dwarf direct emissions — and only set 2024 as its baseline year for that count.xvi
+Problem 1: Engaging a Global, Unequal Supplier Base
+
+Merit's supplier base is large and concentrated: more than 1,030 direct suppliers across 42 countries, with
+the top 78 accounting for roughly two-thirds of spend, and only about half of all suppliers based in the
+continental U.S.xvii Historically, Merit selected suppliers almost entirely on quality; environmental and
+social criteria are newer. To close that gap, Merit began routing suppliers through EcoVadis, a third-party
+platform that scores how responsibly a business operates.xviii​
+
+
+The rollout landed unevenly. Large, often publicly traded suppliers — who already report sustainability
+data to their own customers — generally finished quickly. Many smaller and mid-sized suppliers,
+especially precision-parts makers and contract manufacturers in Mexico and China, had no dedicated
+sustainability staff, no emissions-tracking system, and sometimes no English-language documentation of
+practices they may already follow. For a supplier like this, an EcoVadis request can look less like
+partnership and more like unfunded homework — the exact risk Merit's own materiality assessment
+flagged under "management of supplier relationships."xix The problem is compounded by geography:
+Merit's own climate research already identified Mexico and the China/Singapore region as facing the
+highest risk on this exact issue, because local rules pushing suppliers toward better reporting remain
+comparatively underdeveloped there.xx​
+
+
+This is not simply a matter of Merit's preference: Merit is itself subject to corporate social responsibility
+(CSR) laws, including the California Transparency in Supply Chains Act and the UK Modern Slavery
+Act, that require it to monitor labor standards across its own supply chain — so a supplier's sustainability
+responsiveness has become a compliance question for Merit, not only a reputational one.xxi
+Exhibit 3 sketches a way to sort suppliers by leverage (spend concentration, sole-source status) and by
+readiness (size, existing reporting habits, local regulation). "Anchor Partners" — large, sophisticated,
+already reporting — sit at one end. Small, single-plant manufacturers in Mexico and China, which carry
+Merit's biggest data and continuity blind spot, sit at the other. Merit's options range from pushing the same
+EcoVadis requirement on everyone (fast, but risks relationship strain or shallow answers), to narrowing
+focus to the top 78 suppliers (efficient, but leaves the highest-risk suppliers untouched for years), to a
+differentiated approach that offers smaller suppliers real support — and shows them what they personally
+gain — before holding them to the same bar as Merit's largest partners.
+
+
+Problem 2: Communicating ESG Performance Without Overreaching
+
+Merit's 2025 awards were real and independently earned — three Newsweek recognitions and a Gallup
+Exceptional Workplace Award following a record 93 percent employee survey participation rate.xxii But
+some of Merit's own numbers still have gaps: Scope 3 is unmeasured, direct emissions rose 2 percent, and
+the workplace injury rate ticked up slightly.xxiii Spotlighting the awards while glossing over the harder
+numbers risks a credibility problem the moment someone looks past the press release.
+Regulatory ground is also shifting. Merit's sustainability reporting is modeled on the EU's Corporate
+Sustainability Reporting Directive (CSRD), but in December 2025 EU lawmakers sharply narrowed
+which companies CSRD applies to and delayed deadlines for many mid-sized firms by two to three
+years.xxiv Separately, the EU's proposed Green Claims Directive — which would have required proof
+behind claims like "sustainable" — stalled in 2025, but a related, already-binding law will make vague or
+offset-based "climate neutral" claims illegal starting September 27, 2026.xxv For a company collecting
+sustainability awards, the message is clear: scrutiny of corporate environmental claims is not going away,
+even as the specific rules keep moving.​
+
+
+The EU's regulatory reach compounds this problem in a way that goes beyond climate-claims wording.
+Medical devices sold in the EU already require CE marking under the EU Medical Device Regulation
+(Regulation (EU) 2017/745, MDR), and Merit's own 2025 Annual Report acknowledges that, given the
+cost and complexity of that certification, the company will in some cases discontinue or postpone a
+product's EU introduction rather than pursue approval under the newer rules.xxvi That trade-off shows up
+concretely with battery-powered products: any device that incorporates a battery must now also satisfy the
+EU's separate Batteries Regulation (Regulation (EU) 2023/1542), which layers its own CE marking,
+technical documentation, and — starting in 2027 — end-user battery-removability design rules on top of
+MDR, on a compliance track that runs largely independent of the device's own approval.xxvii Faced with
+that, Merit has chosen in at least one product line to sell only the non-battery version of a device in
+Europe — even though the battery-enabled version is more advanced and more accurate — simply to
+avoid stacking two overlapping, still-maturing regulatory regimes onto a single product. The same
+dynamic shows up elsewhere: Merit's own filings flag active EU consideration of restrictions on PFAS
+materials and on Ethylene Oxide sterilization, both of which the company currently relies on to
+manufacture and sterilize its products, alongside a patchwork of country-by-country packaging and
+extended-producer-responsibility rules.xxviii Each new rule brings its own declaration of conformity,
+documentation, and internal sign-off, so Merit's EU compliance effort looks less like managing a fixed
+checklist and more like continuously re-configuring for a moving target — and that recurring compliance
+cost eventually has to be recovered somewhere, typically in product price, which cuts against the same
+cost discipline that anchors Merit's broader strategy.​
+
+
+At the same time, silence has a cost: hospital systems increasingly screen suppliers on ESG performance,
+some of Merit's own manufacturing customers are themselves affected by CSRD, and Merit's recruiting
+data suggests its employee-friendly reputation is becoming a real hiring advantage in competitive labor
+markets. The task is not whether to tell Merit's story, but how to tell it so it builds trust with investors,
+hospital customers, employees, and the suppliers now being asked to open their own books.
+
+
+The Question Before Alisha
+
+Alisha has six weeks before she presents to the Board's Governance and Sustainability Committee. She
+needs a supply chain sustainability strategy the Committee can approve and Merit can start piloting this
+year.​
+
+
+Merit's top goal: build a credible, verifiable picture of sustainability performance across its supply base,
+one Merit can act on and defend publicly, while strengthening the supplier relationships that keep devices
+reaching patients.​
+
+
+The stakeholders who matter most to that goal:
+   1.​ Suppliers, especially the high-power, low-readiness manufacturers in Mexico and China (Exhibit
+         3)
+   2.​ Hospital and health-system customers, who increasingly screen suppliers on ESG performance
+   3.​ The Board and investors, who will weigh any plan against the Continued Growth Initiatives
+         targets
+   4.​ Merit associates, especially the procurement and quality teams who manage supplier relationships
+         every day​
+
+
+Two common strategies are summarized in Exhibit 5: (A) require every supplier to complete EcoVadis
+on a fixed deadline, or (B) focus first on the 78 suppliers that hold about two-thirds of spend. Merit is
+open to either, a combination, or a completely different approach, as long as your proposal makes these
+five things clear:
+   1.​ Who Merit engages first, and why, and what waits until later
+   2.​ What Merit asks of suppliers, and what suppliers get in return
+   3.​ What it costs, who pays, and how it fits Merit's margin and cash targets
+   4.​ How Merit will know it's working: metrics, targets, and a timeline
+   5.​ What Merit will say publicly, to whom, and how it avoids claiming more than its data supports
+
+
+                                           CENTRAL QUESTION
+   What supplier sustainability strategy should Merit adopt to build credible, verifiable sustainability data
+     across its global supply base, strengthen the supplier relationships patients depend on, and turn that
+    progress into trust and competitive advantage with customers, investors, and employees, in a way that
+                          reflects Merit's values and fits its financial commitments?
+Your Strategy Should
+
+  1.​ Serve as a template that works for the suppliers you start with and can scale across Merit's ~1,030
+       suppliers in 42 countries.
+  2.​ Improve the coverage and quality of Merit's supplier sustainability data without disrupting supply
+       continuity or overburdening smaller suppliers (see the TOMS example in Resources).
+  3.​ Reflect Merit's vision, mission, and HEART values, and fit within its Continued Growth Initiatives
+       commitments.
+  4.​ Answer the following three questions:
+            a. Where should Merit focus first, and why? (Consider Exhibits 2 and 3.)
+            b. How does your strategy build trust and competitive advantage with the four stakeholder
+            groups above, including what information Merit shares, with whom, and when?
+            c. What does your strategy cost, what does it return, and how will Merit measure success?​
+
+
+Teams from every major are encouraged. You may lead with an operations, finance, marketing and
+communications, strategy, information systems, public policy, global studies, or other lens. Whatever your
+angle, your proposal must still work within the supply chain realities described in this case.
+
+Deliverables
+
+Each team will submit and present a slide deck. Use public data and clearly labeled assumptions;
+confidential Merit data is not expected. We suggest the following structure:
+Section                              Slides                              What it should show
+
+Recommendation and rationale         3–4                                 Your chosen strategy, why it beats
+                                                                         the alternatives, and how it advances
+                                                                         Merit's goals
+
+Implementation and pilot             2–3                                 Which suppliers first, rollout steps,
+                                                                         owners, timeline, and supplier
+                                                                         support
+
+Financials and metrics               2                                   Costs, expected value, and KPIs
+                                                                         with numeric targets
+
+Risks and mitigation                 1–2                                 The biggest risks to suppliers,
+                                                                         patients, and Merit, and how you
+                                                                         reduce each
+
+Communication plan                   1                                   What Merit shares, with whom, and
+    Section                             Slides                              What it should show
+
+                                                                            the guardrails against greenwashing
+
+    Social impact cycle                 1                                   Your strategy mapped onto the
+                                                                            social impact cycle
+
+​
+Evaluation Criteria (in order of importance)
+
+      ●​ Strategic rationale and fit with Merit's goals: a clear, defended choice that advances Merit's top
+          goal and reflects its vision, mission, HEART values, and financial commitments.
+      ●​ Feasibility and scalability: realistic strategies Merit could start this year and extend across a
+          global supplier base, operationally and financially.
+      ●​ Quantitative rigor: recommendations backed by defensible data analysis, with costs, returns, and
+          measurable targets.
+      ●​ Effective social impact: improves outcomes for suppliers, their workers, and patients while
+          avoiding unintended harm, such as pushing out small suppliers or overstating progress.
+      ●​ Operational considerations: detailed pilot design, process, owners, rollout timeline, and risk
+          mitigation.
+      ●​ Creativity and innovation: novel, compelling ideas that align with Merit's mission.
+
+Prize and Mission Impact​
+The top three teams will receive cash prizes:
+
+      ●​ 1st place: $3,000
+      ●​ 2nd place: $2,000
+      ●​ 3rd place: $1,000
+Strong proposals will show how a medical device company can raise standards across a global supply
+chain while strengthening the suppliers, workers, and patients who depend on it.
+
+Resources to Consider
+
+      ●​ Merit Medical 2025 Sustainability Report and 2025 Annual Report (Form 10-K), cited throughout
+          the case
+      ●​ Merit's Vision and Values and At the HEART of Sustainability
+      ●​ Merit's Continued Growth Initiatives announcement
+      ●​ EcoVadis (ecovadis.com) for how supplier ratings work
+      ●​ TOMS Shoes' example of unintended negative impacts in social impact: Wharton article
+●​ FTC Green Guides (U.S. guidance on environmental marketing claims)
+●​ Social impact cycle
+●​ Exhibits 1–5
+EXHIBITS
+
+Exhibit 1
+
+Merit Medical: Key Figures at a Glance (2025, 2024, 2020 Baseline)
+ Metric                          2025                            2024                               2020 (Baseline)
+
+ Net Sales ($K)                  1,515,906                       1,356,514                          963,875
+
+ Net Income ($K)                 128,489                         120,357                            (9,843)
+
+ Total GHG Emissions (MT 30,875                                  22,688                             31,452
+ CO2e, Scopes 1+2)
+
+ % Energy from Renewable 27%                                     18%                                —
+ Sources
+
+ Merit Associates (avg.)         7,110                           6,885                              6,004
+
+ Total Recordable Incident       1.0                             0.9                                1.1
+ Rate (TRIR)
+
+Source: Merit Medical Systems, Inc., 2025 Sustainability Report, "Key Figures at a Glance," p. 7.
+
+
+Exhibit 2
+
+Merit's Supply Chain by the Numbers (2025)
+ Metric                                                          Value
+
+ Direct suppliers                                                ~1,030
+
+ Countries represented                                           42
+
+ Share of annual spend held by top 78 suppliers                  ~65%
+
+ Suppliers located in continental U.S.                           49%
+
+ Purchases from diversity-designated suppliers                   11%
+
+ Supplier audits conducted in 2025                               29
+
+ Typical FDA supplier (re)qualification timeline                 9–12 months
+
+Source: Merit Medical Systems, Inc., 2025 Sustainability Report, "Supply Chain Management," p. 35, and "Quality Assurance,"
+p. 40.
+
+
+Exhibit 3
+
+Illustrative Supplier Power–Readiness Segmentation (Composite, for Case Discussion Only)
+Note: The categories below are illustrative composites created for classroom discussion. They do not represent actual, named
+Merit suppliers or confidential company data.
+
+                                 Low Sustainability              Moderate Readiness              High Readiness
+                                 Readiness
+
+ High Power (sole-source / Critical single-plant                 Mid-size specialty              "Anchor Partners": large,
+ high spend)                     component makers,               manufacturers with partial      often public, multinational
+                                 Mexico/China — high             reporting systems               suppliers already reporting
+                                 switching cost, limited                                         on their own
+                                 capacity
+
+ Low Power (fragmented           Small commodity-input           Regional distributors and       Smaller suppliers already
+ spend, substitutable)           suppliers with minimal          packaging vendors               certified via other
+                                 capacity                        building basic reporting        customers' requirements
+
+Framework adapted from standard stakeholder power–interest mapping, applied here to supplier sustainability engagement.
+
+
+Exhibit 4
+
+2025–2026 Recognition and Reporting Frameworks Referenced in This Case
+ Item                                                            What It Is
+
+ Newsweek: America's Most Responsible Companies                  Annual ranking based on social responsibility
+ 2026                                                            performance and stakeholder commitments
+
+ Newsweek: World's Greenest Companies 2025                       Annual ranking based on environmental footprint
+                                                                 reduction
+
+ 2026 Gallup Exceptional Workplace Award                         Recognizes strong employee engagement, based on
+                                                                 survey data
+
+ GRI (Global Reporting Initiative)                               Voluntary, widely used template for what companies
+                                                                 disclose about social and environmental impact
+
+ SASB Standards                                                  Industry-specific disclosure standards, including ones
+                                                                 written for medical device makers
+
+ TCFD                                                            Framework for explaining how climate risk could affect
+ Item                                                             What It Is
+
+                                                                  a company financially
+
+ EU CSRD                                                          EU law requiring many large companies to publish
+                                                                  audited sustainability reports; scope and timelines were
+                                                                  narrowed in a Dec. 2025–Feb. 2026 simplification
+                                                                  package
+
+ EU Green Claims Directive / ECGT                                 Proposed EU rule requiring proof behind green
+                                                                  marketing claims (stalled in 2025); a related,
+                                                                  already-binding EU law bans vague or offset-based
+                                                                  "climate neutral" claims starting Sept. 27, 2026
+
+ EU Medical Device Regulation (MDR)                               Regulation (EU) 2017/745; requires CE marking for
+                                                                  medical devices sold in the EU; replaced the earlier
+                                                                  Medical Device Directive as of May 2021
+
+ EU Batteries Regulation                                          Regulation (EU) 2023/1542; imposes a separate CE
+                                                                  marking and documentation process, plus (from 2027)
+                                                                  end-user battery-removability requirements, on devices
+                                                                  that contain batteries
+
+Exhibit 5
+
+Two Common Supplier Engagement Strategies Under Consideration
+These are starting points drawn from the case, not the expected answer. Teams may adopt, combine, or replace them.
+
+                                           Strategy A: Uniform mandate                Strategy B: Top-78 focus
+
+ What it is                                Every direct supplier completes an         Engage the 78 suppliers holding
+                                           EcoVadis assessment by a fixed             ~65% of spend first; others later
+                                           deadline
+
+ Supplier coverage                         ~1,030 suppliers in 42 countries           78 suppliers, mostly large "Anchor
+                                                                                      Partners"
+
+ Speed to data                             Fast on paper; real response depends Fast and high-quality for the
+                                           on supplier capacity                       suppliers covered
+
+ Burden on suppliers                       Heaviest on small suppliers with no        Light; most top suppliers already
+                                           sustainability staff                       report
+                                             Strategy A: Uniform mandate               Strategy B: Top-78 focus
+
+ What it leaves exposed                      Shallow or incomplete answers;            The small, single-plant suppliers in
+                                             strained relationships with               Mexico and China that carry Merit's
+                                             hard-to-replace suppliers                 biggest data and continuity blind
+                                                                                       spot
+
+ Fit with Merit's goals                      Strong on Excellence (one standard        Strong on cost discipline; weaker on
+                                             for all); weaker on Teamwork and          Health and Responsibility across the
+                                             Agility                                   full value chain
+
+Source: Case text and Exhibits 2–3; Merit Medical Systems, Inc., 2025 Sustainability Report, p. 35.
+
+
+Endnotes
+
+i. Merit Medical Systems, Inc., 2025 Sustainability Report (South Jordan, UT: Merit Medical, 2026), p. 42.
+ii. Merit Medical, 2025 Sustainability Report, pp. 20–22, 35.
+iii. Merit Medical Systems, Inc., 2025 Annual Report (Form 10-K) (South Jordan, UT: Merit Medical, 2026), "Business."
+iv. Merit Medical, "An Introduction to Merit Medical," merit.com, accessed October 2026.
+v. MedTech Dive, "Supply Disruptions Delaying Surgeries, Treatments: ECRI" (report on the ECRI and Institute for Safe
+Medication Practices survey).
+vi. Becker's Hospital Review, "Device Supply Gaps Put Pediatric Patients at Risk: FDA," January 2025.
+vii. Merit Medical Systems, Inc., Form 8-K, Exhibit 99.3, February 28, 2024, "About Merit."
+viii. Merit Medical, "The Making of Merit Medical—A Timeline Celebrating 35 Years," merit.com.
+ix. Merit Medical, "Vision & Values," merit.com, accessed October 2026.
+x. Merit Medical, "Building Better Healthcare: The Merit Medical Story," merit.com.
+xi. Merit Medical, "At the HEART of Sustainability: A Look at Our 2024 Progress," July 24, 2025.
+xii. Merit Medical Systems, Inc., "Merit Medical Introduces 'Continued Growth Initiatives' Program and Financial Targets for
+Three-Year Period Ending December 31, 2026," Form 8-K, Exhibit 99.3, February 28, 2024; targets reiterated in "Merit Medical
+Systems Q2 Earnings Call Highlights," July 2026.
+xiii. Merit Medical Systems, Inc., "Merit Medical Reports Fourth Quarter and Full Year 2025 Results and Issues Fiscal Year 2026
+Guidance," Form 8-K, Exhibit 99.1, February 24, 2026.
+xiv. Merit Medical, 2025 Sustainability Report, pp. 13–14.
+xv. Merit Medical, 2025 Sustainability Report, pp. 9–11.
+xvi. Merit Medical, 2025 Sustainability Report, pp. 16–17.
+xvii. Merit Medical, 2025 Sustainability Report, p. 35.
+xviii. Merit Medical, 2025 Sustainability Report, p. 35.
+xix. Merit Medical, 2025 Sustainability Report, pp. 9–11.
+xx. Merit Medical, 2025 Sustainability Report, p. 22.
+xxi. Merit Medical, 2025 Annual Report (Form 10-K), "Regulation," p. 11 (California Transparency in Supply Chains Act and
+UK Modern Slavery Act monitoring obligations).
+xxii. Merit Medical, 2025 Sustainability Report, pp. 31, 42.
+xxiii. Merit Medical, 2025 Sustainability Report, pp. 17, 29.
+xxiv. European Commission, "Corporate Sustainability Reporting," Finance, accessed 2026, https://finance.ec.europa.eu; PwC,
+"'Omnibus' Directive Finalised," February 2026, https://viewpoint.pwc.com.
+xxv. European Parliament, "'Green Claims' Directive: Protecting Consumers from Greenwashing," Think Tank Briefing, 2023,
+https://www.europarl.europa.eu; on the Commission's 2025 move to withdraw the proposal and the related, already-binding
+Empowering Consumers for the Green Transition Directive (effective September 27, 2026), see Inside Energy & Environment,
+"The European Commission's New Green Claims Guidance," December 2025, https://www.insideenergyandenvironment.com.
+xxvi. Merit Medical, 2025 Annual Report (Form 10-K), "Regulation," p. 12 (EU Medical Device Regulation (EU) 2017/745 and
+its effect on MDR certification costs and EU product decisions).
+xxvii. Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 on Batteries and Waste
+Batteries, https://eur-lex.europa.eu; Emergo by UL, "EU Deadline Approaching for Portable Batteries in Medical Devices and
+IVDs," July 16, 2024, https://www.emergobyul.com.
+xxviii. Merit Medical, 2025 Annual Report (Form 10-K), "Environmental, Health and Safety and Corporate Social Responsibility
+Risks," p. 30 (PFAS and Ethylene Oxide sterilization restrictions under EU consideration).
+
