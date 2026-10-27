@@ -3,7 +3,7 @@
 > Context hub for this competition. Created Oct 24 2026 from BYU email (Mail.app), Outlook attachments, the Desktop rubric, and the two Google sign-up sheets. Keep this updated as the week goes.
 
 ## ⚠️ Open action items (as of Sat Oct 24)
-1. **Prelim slot sign-up — due Sun Oct 25 11:59 PM.** Sheet: https://docs.google.com/spreadsheets/d/13atmdhv8CHWHcaP-1DkP-eUFSeb0dF6ia_5UchZ1nuU/edit
+Completed✅ -- 1. **Prelim slot sign-up — due Sun Oct 25 11:59 PM.** Sheet: https://docs.google.com/spreadsheets/d/13atmdhv8CHWHcaP-1DkP-eUFSeb0dF6ia_5UchZ1nuU/edit
    - "Data Nerds" is already typed into **11:10 AM · Room JKB 3106 · slot ID 23**, but the **Team Lead Name and Phone cells are still blank** — fill them in (Cameron's name + day-of phone) or it may not count.
    - **Team # = the slot ID (23)**, per the Oct 24 email ("it's your Team # for the rest of the competition, including your deck file name"). Note: "The College Dropouts" overwrote their slot ID cell (10:50 AM, JKB 2107) with their registration number, which is *also* 23 — possible file-name collision. Worth a one-line email to peerybfg@byu.edu to confirm Data Nerds = T_23.
 2. **Schedule conflicts on Fri Oct 30** (from Google Calendar):
