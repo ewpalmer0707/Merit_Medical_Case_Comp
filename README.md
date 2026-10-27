@@ -11,6 +11,48 @@ Completed✅ -- 1. **Prelim slot sign-up — due Sun Oct 25 11:59 PM.** Sheet: h
    - **SOLVD "Work from Kiln – lunch provided" 9–5** and **Soft Skills Training w/ Spencer 11–12 at Kiln** — conflicts with the prelim. Tell Josh/Spencer you're at the case comp that morning (and possibly all afternoon if you make finals).
 3. **Deck PDF due Fri Oct 30 7:00 AM** to peerybfg@byu.edu. Subject AND filename: `T_23_DataNerds_BFG` (pattern `T_Team#_TeamName_BFG`). Only a PDF is required.
 
+## ▶ Next session: consolidation (start here)
+Agreed at the Oct 27 team meeting: everyone writes their own idea dump into `ideas/<name>.md` and pushes, then we `git pull`, consolidate, vet against the research, and build the deck and solution.
+
+**Steps for the consolidation session:**
+1. `git pull`. Read every `ideas/*.md`. Teammates were covering (a) what working with Mexico/China suppliers requires and (b) the EcoVadis questionnaire Merit asks suppliers to fill out.
+2. Merge them into one storyline, using `slide-outline.md` as the skeleton (11 slides + backups, ~8:55).
+3. Vet each idea against `research/` and `pushback-checklist.md`; flag anything unsourced.
+4. Settle the open decisions:
+   - program name
+   - who presents which slides
+   - Tier-2 count (30 vs 50)
+   - whether teammate findings change the Tier-2 ask
+5. Then build the deck, script, and Q&A prep.
+
+**Elijah's proposed flow** (`ideas/elijah.md`):
+1. Shenli recall story (Elijah presents the opening)
+2. The landscape and why it's a priority now
+3. Score suppliers into tiers, with a path to EcoVadis per tier
+4. Who else has done it
+5. Financials
+6. Close on HEART / lifting Merit's standards
+
+**Feedback Elijah agreed with (Oct 27). Apply these during consolidation:**
+1. **Shenli story ≠ eco failure.** The 2024 recall was regulatory/quality: Jiangsu Shenli's syringes weren't FDA-cleared. Frame it as a *visibility/blind-spot* problem ("the same blind spot hides labor and emissions risk"). Say "catch it earlier," never "avoid it completely." Alisha will know the details.
+2. **"High impact, low effort first" contradicts our grid.** The critical Mexico/China suppliers are high impact but HIGH effort; the low-effort win is the Tier-1 anchors (accept their existing scores). Pitch it as two tracks at once: lock in the easy ~65% of spend in month 1, and invest in the critical few. This also answers "why leave 65% of spend on the table?"
+3. **Say "score/sort suppliers," not "audit."** An audit means on-site visits (Merit did only 29 in 2025), which sounds slow and expensive.
+4. **Rubric gaps the flow must include:**
+   - the Social Impact Cycle beat (25%) + unintended consequences/tripwires
+   - what suppliers get in return
+   - the public-claims/anti-greenwashing plan
+   - numeric metrics: spend coverage + critical-supplier coverage + a worker pay/hours outcome
+   
+   All four are drafted in `slide-outline.md` (slides 5, 9, 10, 11).
+5. **Watch the clock:** 10 min is a hard limit. Slide 8 (financials) holds too much; keep cost, breakeven, and one disruption example, and move the rest to backups.
+
+**Key numbers from the Oct 27 research** (details in `research/`):
+- **Cost and payback:** cost ~$0.6M/yr (≈0.04% of revenue, ≈0.2% of non-GAAP op income ~$308M). Breakeven = prevent one sole-source failure every ~4 yrs (~$2.5M each, labeled assumption).
+- **Disruption:** McKinsey: supply shocks cost the average medtech company 38% of a year's earnings per decade. Merit revenue ≈ $4.15M/day.
+- **Customers:** NHS gives ≥10% tender weight now and requires a Scope 1–3 carbon plan from Apr 2027; France has scored the environment in every public-hospital tender since Aug 2026. In the US, pitch resilience, not "ESG wins deals."
+- **Merit context:** new CEO Martha Aronson (Oct 2025) lists "responsible supply-chain practices" as a priority. Merit switched Sedex → EcoVadis in 2025. The Supplier Code of Conduct dates from April 2018. Say "supply chain partners," not "vendors."
+- **Earnings:** Q3 2026 results come out Thu Oct 29 after close (call 4:30pm ET). Refresh the margin numbers that night.
+
 ## Team — "Data Nerds" (registration row #17, 3 members)
 | Role | Name | Email | Phone |
 |---|---|---|---|
@@ -99,6 +141,9 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - `case-materials/Merit Medical Case.pdf` + `.txt` — the case (10 pp + exhibits + endnotes)
 - `case-materials/Judging Sheet.pdf` + `.txt` — judges' rubric (adjusted weights)
 - `case-materials/BFG Kickoff Slides.pptx` — kickoff deck (Oct 13)
+- `slide-outline.md` — draft 11-slide outline + backups (Oct 27)
+- `ideas/<name>.md` — each teammate's idea dump (Oct 27 process)
+- `research/financials-value.md`, `customer-esg-demands.md`, `impact-measurement.md`, `merit-real-suppliers.md`, `alisha-jerauld.md` — Oct 27 research
 - `pushback-checklist.md` — the seven judge questions the finalized approach must survive (run after research)
 - `problem-brief.md` — plain-language mastery of the problem + key research answers (read this first)
 - `research/outside-research.md` (~7,700 words, 10 sections, URLs inline, [NOT FOUND]/[UNVERIFIED] flags) + `research/sources.txt` (158 URLs) — Merit reports, EcoVadis, peer programs, finance models, Social Impact Cycle, TOMS, greenwashing law, shortages
@@ -107,11 +152,14 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 ## Status
 - [x] Materials pulled + extracted (Oct 24)
 - [x] Team, logistics, rubric recorded (Oct 24)
-- [ ] Prelim slot row completed (lead name + phone) — due Sun Oct 25 11:59 PM
+- [x] Prelim slot row completed (teammate marked done in README, Oct 27)
 - [ ] Confirm Team # (23) with BFG; tell SOLVD + Thiesset about Fri morning
 - [x] Outside research + analogue research done (Oct 24); [ ] team reads problem-brief + research
 - [ ] Check Merit Q3 2026 earnings (Oct 29) before presenting
-- [ ] Team meeting → strategy choice → deck outline
+- [x] Team meeting (Oct 27) → agreed process: each member dumps ideas into `ideas/<name>.md` → pull → consolidate → vet against research → build deck
+- [x] Draft deck outline (`slide-outline.md`, Oct 27)
+- [x] Elijah's idea dump pushed (`ideas/elijah.md`, Oct 27)
+- [ ] **NEXT SESSION: consolidate everyone's `ideas/*.md`** (see section below)
 - [ ] **Run `pushback-checklist.md` against the finalized approach** (after analogue research is in)
 - [ ] Deck + financials + sources; script + Q&A prep
 - [ ] Dry runs (10-min hard limit); export PDF as `T_23_DataNerds_BFG.pdf`; email by Fri 7:00 AM
@@ -131,3 +179,4 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - 2026-10-27: impact-measurement.md back (17-row KPI table; worker hours+pay, IMSS turnover, NOM-035, 506J shortages; wait-list comparison). Folded into slides 9–10.
 - 2026-10-27: customer-esg-demands.md back (NHS ≥10% weight + Apr 2027 Scope 1–3 gate; France env. criterion Aug 2026; US GPOs ask Scope 1/2, no numeric weight; HHS pledge ended). Folded into slides 5, 8, 11.
 - 2026-10-27: financials-value.md back (McKinsey 38% of a year's earnings/decade; $4.15M/day revenue; breakeven = prevent one sole-source failure every ~4 yrs; cost refined to ~$0.6M/yr ≈ 0.2% of non-GAAP op income; NAFIN factoring fee-free). All five research files in; slide-outline.md has no open PENDING slots.
+- 2026-10-27 (team meeting): Process agreed — individual idea dumps in `ideas/`, then pull + consolidate. Elijah's dump pushed with vetting feedback (Shenli = visibility not eco; two-track sequencing not 'low effort first'; 'score' not 'audit'; add Social Impact Cycle/supplier-return/claims/metrics). Next session = consolidation; see '▶ Next session' section at top.
