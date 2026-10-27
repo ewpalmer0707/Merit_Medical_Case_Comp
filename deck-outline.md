@@ -18,7 +18,7 @@ The build sheet for the deck. Each slide lists its **headline** (a full sentence
 - **On-slide:** T_23 · team names
 - **Visual:** a full-bleed photo of a syringe/custom procedure kit, darkened, with the title over it.
 - **Say:**
-  - In 2024 a small Chinese syringe maker inside Merit's custom kits got an FDA warning letter. Merit recalled the kits, and Cardinal Health's kits that contained them were recalled too.
+  - In 2024 a Chinese syringe maker, whose syringes reached Merit's custom kits through one of Merit's suppliers, got an FDA warning letter. Merit recalled the kits, and Cardinal Health's kits that contained them were recalled too.
   - It wasn't an emissions problem; it was a *visibility* problem. The same blind spot hides labor and emissions risk.
   - "Today we'll show how Merit catches the next one earlier."
 - **Source:** FDA warning letter Mar 2024; FDA recall Z-database Jun 2024

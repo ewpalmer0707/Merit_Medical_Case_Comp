@@ -9,7 +9,7 @@ Language rules: "supply chain partners," not "vendors" · "score/sort," not "aud
 ---
 
 ## 1 · Hook: it already happened (0:30) · E
-- **2024:** Jiangsu Shenli, a small Chinese syringe maker inside Merit's custom kits, got an FDA warning letter (Mar). Merit recalled the kits (Class II, Jun), and Cardinal Health's kits that contained them were recalled too. [`research/merit-real-suppliers.md`]
+- **2024:** Jiangsu Shenli, a Chinese syringe maker whose syringes reached Merit's custom kits through one of Merit's suppliers, got an FDA warning letter (Mar). Merit recalled the kits (Class II, Jun), and Cardinal Health's kits that contained them were recalled too. [`research/merit-real-suppliers.md`]
 - This was a **quality/regulatory** failure, not an emissions one. The point is visibility: *the same blind spot that let an uncleared part into our kits also hides labor and emissions risk.*
 - Title on screen: "Merit Supplier Ladder: credible data from the partners patients can't lose" · T_23
 
