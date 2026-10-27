@@ -1,150 +1,138 @@
-# Slide outline — Data Nerds (T_23) · draft v1, Oct 27
+# Slide outline: T_23 · v2 (consolidated Oct 27 night)
 
-Built from `strategy-recommendation.md`, `problem-brief.md`, `pushback-checklist.md`, and the rubric. **10:00 hard limit → 11 main slides + backups.** Times are targets. `[PENDING: file]` = slot to fill when that research file lands. Working name for the program: **"Merit Supplier Ladder"** (rename if someone has something better).
+v2 merges Elijah's flow, Nolan's reporting-support research, and Cameron's Oct 24 handoff. **What changed and why:** `consolidation.md`. **10:00 hard limit → 11 main slides + backups, target ~9:00.** Program name (proposed): **"Merit Supplier Ladder."** Presenter initials are a proposal (E = Elijah, N = Nolan, C = Cameron).
 
-Rubric weights to keep in mind: Strategic Fit 25 · Social Impact 25 · Quant 15 · Feasibility 15 · Creativity 10 · Delivery 10.
+Rubric: Strategic Fit 25 · Social Impact 25 · Quant 15 · Feasibility 15 · Creativity 10 · Delivery 10.
+
+Language rules: "supply chain partners," not "vendors" · "score/sort," not "audit" · "catch it earlier," not "prevent" · label every estimate.
 
 ---
 
-## 1 · Title (0:15)
-- "Merit Supplier Ladder: credible data from the suppliers patients can't lose"
-- Team Data Nerds · T_23
-- Spoken hook: one Tijuana supplier, 40 people, makes a part only they make, asked for an EcoVadis score in English for the first time.
+## 1 · Hook: it already happened (0:30) · E
+- **2024:** Jiangsu Shenli, a small Chinese syringe maker inside Merit's custom kits, got an FDA warning letter (Mar). Merit recalled the kits (Class II, Jun), and Cardinal Health's kits that contained them were recalled too. [`research/merit-real-suppliers.md`]
+- This was a **quality/regulatory** failure, not an emissions one. The point is visibility: *the same blind spot that let an uncleared part into our kits also hides labor and emissions risk.*
+- Title on screen: "Merit Supplier Ladder: credible data from the partners patients can't lose" · T_23
 
-## 2 · The core problem (1:00) — Elijah
-One dense slide (Wasatch Cup lesson). Two problems, one root cause.
-- **Problem 1 (data gap in the wrong place):** 1,030 suppliers, 42 countries; top 78 = 65% of spend and already reporting; the gaps are small, single-plant, hard-to-replace makers in Mexico/China. **9–12 months to requalify** → losing one = patients waiting (ECRI: ~half of clinicians say shortages delay treatment).
-- **Problem 2 (story ahead of the numbers):** Scope 3 unmeasured (2024 baseline only); Scope 1+2 −2% vs 2020 against a −40% goal; no published EcoVadis coverage numbers; EU vague-claims ban from **Sept 27 2026**.
-- Root cause line: *Merit asks every supplier the same question, so the ones that matter most are the ones that can't answer it.*
-- Quote Merit's own materiality wording: "the size disparity between its smaller suppliers that could potentially lead to supplier exploitation."
-- Merit's own words (from `research/alisha-jerauld.md`): the 2025 report names **Scope 3 from suppliers in China and Mexico as a top risk**, and the goal to "drive our value system throughout our supply chain." Say **"supply chain partners,"** never "vendors."
-- Context: new CEO Martha Aronson (since Oct 3 2025) lists "responsible supply-chain practices" as a priority; the platform just switched Sedex (2024) → EcoVadis (2025), so low completion is a *new rollout*, fixable now.
+## 2 · The core problem (1:00) · E
+One dense slide. Two problems, one root cause.
+- **Problem 1: the data gap sits where risk is highest.** 1,030 suppliers in 42 countries. The top 78 = 65% of spend, mostly large and reporting. The gap is small, single-plant, hard-to-replace makers in Mexico and China. **Requalifying a supplier takes 9–12 months**, so losing one means patients wait (ECRI: ~half of clinicians say shortages delay treatment).
+- **Problem 2: the story is ahead of the numbers.** Scope 3 is unmeasured (2024 baseline only). Scope 1+2 is **2% below 2020 vs a −40% goal**. Merit publishes no EcoVadis coverage numbers. The EU ban on vague claims started **Sept 27 2026**.
+- **Root cause:** *Merit asks every supplier the same question, so the ones that matter most are the ones that can't answer it.*
+- Merit's own words: the 2025 report names Scope 3 from suppliers in China and Mexico as a top risk. The materiality assessment flags "the size disparity between its smaller suppliers that could potentially lead to supplier exploitation."
+- **Why now:** new CEO Martha Aronson (Oct 2025) lists "responsible supply-chain practices" as a priority. EcoVadis replaced Sedex only in 2025, so this is a new rollout and fixable now. NHS requires a Scope 1–3 carbon plan from Apr 2027.
 
-## 3 · Why the two defaults fail (0:40)
-Three-column comparison vs. A (uniform mandate) and B (top-78 first) and ours, rated against HEART + the case's goals.
+## 3 · Why the two defaults fail (0:40) · E
 | | A · Uniform mandate | B · Top 78 first | **Ladder** |
 |---|---|---|---|
-| Spend coverage | fast on paper | 65% fast | 65% fast (Tier 1) |
-| Risk coverage | shallow/fake answers | blind spot for years | critical-stuck targeted Y1 |
-| Supplier strain | high → attrition | none | proportional |
+| Spend coverage | fast on paper | 65% fast | 65% fast (Tier 1, month 1) |
+| Risk coverage | shallow answers | blind spot for years | critical suppliers targeted in Y1 |
+| Supplier strain | high → attrition | none | matched to need |
 | HEART | Excellence only | weak Health/Responsibility | all five |
-- Evidence chips: unverified yes/no surveys averaged 89% with 40% perfect scores; 56% of large Finnish firms swapped suppliers over ESG (mandate-without-support attrition).
+- Evidence chips: unverified yes/no surveys averaged 89% with 40% perfect scores. 56% of large Finnish firms swapped suppliers over ESG (mandate without support → attrition).
 
-## 4 · Our recommendation: the Ladder (1:00)
-**Framing rule: "risk-weighted sequencing," never "start with the hardest."**
-- Selection rule (the template that scales to 1,030): **sole-source/switching cost × spend × country risk × readiness.** The rule is the deliverable, not the list.
-- Three tiers (counts = labeled estimates):
-  - **Tier 1 · Anchors** (~60–70 of top 78): full EcoVadis or accept any existing EcoVadis/CDP/SMETA; min 45 + progressive improvement.
-  - **Tier 2 · Critical & stuck** (~30–60, Mexico first): Vitals (≤30 min) → full EcoVadis by Y2, with support.
-  - **Tier 3 · Long tail** (~900): exempt below a spend threshold; short form / Vitals; China screened free on IPE Blue Map.
-- Visual: Exhibit 3 power×readiness grid with the three tiers overlaid.
+## 4 · The Ladder: sort, then climb (1:00) · N
+**Two tracks at once:** lock in the easy ~65% of spend in month 1, and invest in the critical few.
+- **Step 1: Merit sorts all 1,030 with one rule:** switching difficulty × spend × country risk × readiness. The rule is the deliverable, and it scales.
+- **Step 2: a 5-question readiness request** to every Tier 2 supplier. What do you already have? Which sites supply Merit? Who owns the data? What's blocking you? What help would get you there? (Follow up on silence before assuming "can't.")
+- **Tiers** (counts = labeled estimates):
+  - **Tier 1 · Anchors** (~60–70 of the top 78): share an existing EcoVadis scorecard or complete one. Minimum score 45, then keep improving. CDP or SMETA counts as evidence, not as a substitute rating.
+  - **Tier 2 · Critical & stuck** (~30–50, Mexico first): climb the ladder with support.
+  - **Tier 3 · Long tail** (~900): exempt below a spend threshold; Vitals only. China screened on IPE Blue Map.
+- **The rungs** (visual: a ladder beside the Exhibit 3 grid):
+  0. **Estimate:** Merit builds a spend-based Scope 3 estimate from its own purchasing data, labeled as an estimate (GHG Protocol allows it).
+  1. **Reported:** supplier completes Vitals (a ≤30-minute questionnaire) and gives first figures.
+  2. **Traceable:** an emissions pack with records, method, and gaps, signed off by the supplier.
+  3. **Rated:** full EcoVadis score by Y2 (third-party, evidence-reviewed).
+- Two asks, never confused: the **EcoVadis rating** covers labor, ethics, and environmental management. **Emissions data** feeds Scope 3. A score is not an emissions number.
 
-## 5 · What suppliers get in return (0:50) — the "Teamwork" slide
-Ask vs. give, side by side for Tier 2:
-- Merit-paid invitation + subsidized subscription (GSK, HSBC Mexico models)
-- **Pre-filled baseline** from spend data — suppliers correct, not create (Schneider)
-- A named Merit coach + Spanish/Mandarin training (Medtronic: 34 of 116 flagged suppliers improved in a year)
-- **Financial carrot:** ESG-tiered early payment / reverse factoring on NAFIN Cadenas Productivas (CDP/HSBC: financial incentives → 52% more likely to cut emissions than training alone)
-- Longer contract terms for completers
-- Refresh the **Supplier Code of Conduct (last updated April 2018; one-line environmental clause)** so the ask is clear and published in Spanish/Mandarin
-- **"One scorecard serves all your customers"** — cuts their 3–5 audits/yr ($5–20k) burden
-- Labor-compliance help for Mexico's 48→40-hour reform → solves *their* 2026 problem, not just Merit's
-- "Your score helps you sell to other buyers too": US purchasing groups (Vizient, Premier, HealthTrust) and systems (Kaiser, CommonSpirit) already ask suppliers for emissions data and targets; NHS and French public-hospital tenders now score it (`research/customer-esg-demands.md`).
+## 5 · What supply chain partners get in return (0:50) · N
+Ask vs give, for Tier 2. **Support is matched to the barrier the readiness request finds** (from a capped fund):
+| Barrier found | Merit's help |
+|---|---|
+| Reports already exist | Permission to share; desk review |
+| Records exist, format unclear | Bilingual templates and instructions |
+| Calculations are hard | Time-boxed specialist hours (EcoVadis-accredited consultant or local provider) |
+| Big gaps at a critical supplier | Named Merit relationship owner + targeted site visit |
+- Merit pays the assessment invitation/subscription for Tier 2 (GSK and HSBC Mexico pay for supplier assessments)
+- **"One scorecard serves all your customers":** cuts the 3–5 audits/yr ($5–20k) suppliers already face
+- **Earlier payment for completers on NAFIN Cadenas Productivas** (fee-free reverse factoring, priced off Merit's credit). The ESG link is our design; NAFIN doesn't offer it today. CDP/HSBC: suppliers offered financial incentives were 52% more likely to cut emissions than with training alone.
+- Help with Mexico's 48→40-hour reform, which is *their* 2026 problem
+- Their score helps them sell to other buyers: Vizient/Premier ask for emissions data; NHS and French tenders score it
+- Refresh the **Supplier Code of Conduct (last updated Apr 2018)** in Spanish and Mandarin so the ask is clear
+- Supplier owns and approves its data. Merit doesn't fill forms for them.
 
-## 6 · Pilot: Tijuana 2026 (0:50)
-- 10–15 sole-source suppliers within driving distance of Merit Tijuana (~2,000 Merit employees; 73 device companies in the cluster; no competitor engages Tijuana sub-suppliers on ESG publicly → first mover).
-- Real-world proof the blind spot bites (from `research/merit-real-suppliers.md`): **2024 — an FDA warning letter to a small Chinese syringe maker inside Merit's custom kits → Merit Class II kit recall (Jun 2024), cascading into Cardinal Health kits.** Public record; present it as "a sub-tier China component maker Merit couldn't see," not a named shaming. Also candidate for the slide-2 hook.
-- Customs records show Merit's Otay Mesa (San Diego, next to Tijuana) receiving point lists ~23 overseas suppliers (stainless, gauze, gauges, needles), so the cross-border pipeline is real. Public data names very few suppliers → **ask: "Merit's vendor master picks the 10–15 pilot suppliers using our rule."**
-- Partners, don't build: **IFC–INA–SE Supplier Development Program** (ask IFC to open a med-device chapter), Cluster de Productos Médicos de las Californias / INDEX for workshops, NAFIN for factoring, FIDE Eco-Crédito for retrofits.
-- **China = phase 2 (2027)**: IPE screening now; EcoVadis CN + consultant hours later; deliberately *not* RBA (MOFCOM countermeasure list, Aug 2026). UFLPA entity-list screening from day 1.
-- Owner: one supplier-sustainability coordinator in Procurement, reporting to Alisha's Sustainability Council.
+## 6 · Pilot: Tijuana, Dec 2026 (0:50) · C
+- **12 sole-source suppliers** near Merit Tijuana (Merit's largest plant; "over 2,000" associates bused daily per the 2025 report; 73 device companies in the cluster). Merit's vendor master picks them with the rule.
+- Delivery: a supplier-sustainability coordinator in Procurement (reports to Alisha's Sustainability Council) + accredited consultants/local providers (SGS Mexico, KPMG Mexico) for specialist hours.
+- Leverage outside programs; don't depend on them: **modeled on the IFC–INA–SE Supplier Development Program** (automotive today; Merit asks IFC to open a medtech track). Baja California certification reimbursement and the Cluster de Productos Médicos for workshops are bonuses, not load-bearing.
+- **China = phase 2 (2027):** IPE Blue Map screen now, which checks public environmental violations (not a carbon or labor audit). Then EcoVadis CN + local consultant hours. Model: Philips × Zhejiang Haishun, collaboration over auditing (120+ improvement opportunities found). UFLPA entity-list screening from day 1. Not RBA (backup B4).
 
-## 7 · Timeline & owners (0:35)
-Gantt strip, Nov 2026 → 2028 (we present Oct 30 2026, so "pilot in 2026" means a Dec 2026 kickoff):
-- Nov–Dec '26: Board approves; score all 1,030 with the rule; tier list; name the coordinator; listening sessions with Tijuana suppliers (Teamwork = "we listen"); **Tijuana cohort kickoff in Dec** (meets "start piloting in 2026")
-- H1 '27: Tier 1 invites / accept existing scores; Tier 2 Vitals + coaching with IFC; factoring live on NAFIN
-- H2 '27: Tier 2 full EcoVadis; China cohort starts; first public coverage numbers (2027 sustainability report)
-- 2028: Tier 3 short form; scale rule to all 42 countries; refresh by risk
-Owner column: VP ESG (sponsor) · Procurement (coordinator, tiers) · Quality (requalification risk) · Finance (factoring) · Comms (claims).
+## 7 · Timeline & owners (0:35) · C
+- **Nov–Dec '26:** Board approves; sort all 1,030 with the rule; name the coordinator; Tier 1 asked to share scorecards; listening sessions + readiness requests with the Tijuana 12 (**pilot starts in 2026**)
+- **H1 '27:** Tier 2 Vitals + matched support; first traceable packs (planning assumption: 4–8 weeks after work starts); factoring live
+- **H2 '27:** China cohort; first public coverage numbers in the 2027 sustainability report; **expand Tier 2 only if cost per accepted pack and retention hit targets**
+- **2028:** Tier 2 full EcoVadis; Tier 3 short form; rule applied across all 42 countries
+- Owners: VP ESG (sponsor) · Procurement (coordinator, tiers, support approvals) · Sustainability/data lead (accepts packs, Scope 3) · Quality (requalification risk) · Finance (factoring) · Comms (claims)
 
-## 8 · Cost, return, fit with CGI (1:00) — Quant 15%
-- Cost (estimate): 50 Tier-2 × (~$1.5k subscription + ~$3k coaching) ≈ $225k + 2 coordinators ~$150–175k loaded (1 Utah ~$75–103k base + 1 Tijuana ~$30k) + partners/training ~$100k + impact measurement ~$100–160k ≈ **~$0.6M/yr ≈ 0.04 margin points** on ~$1.5B sales, ~0.2% of non-GAAP op income (~$308M); Q2 2026 margin 22.6% vs 20–22% target; FCF target already met (~$401M).
-- Financing carrot costs basis points on early-paid invoices, not capex.
-- Customer value: NHS ≥10% tender weight + Apr 2027 Scope 1–3 carbon plan gate (Scope 3 = supplier data, which Merit doesn't publish yet); France environmental award criterion in every public-hospital tender since Aug 21 2026. US framing = resilience + easier GPO data requests, **not** "ESG wins deals" (no public US case found; reliability ranks first).
-- Return side (`research/financials-value.md`):
-  - Disruption is expensive in medtech: McKinsey — supply shocks cost the average medtech company **38% of one year's earnings per decade**, a >2-month shock every ~3.7 yrs; Baxter/Helene single plant ≈ $200M lost Q4 sales + $350–400M charges.
-  - Merit's own exposure: 10-K cites a "relatively small number" of sterilizers and resins from a "limited number of suppliers"; supplier-driven disruptions on calls in Q3 2021 and Q2 2023. Revenue ≈ **$4.15M/day**.
-  - **Payback line:** one sole-source failure ≈ $2.5M (labeled assumption) → program breaks even if it prevents **one every ~4 years**; or cut Merit's expected disruption loss (~$11.7M/yr, derived) by ~5%.
-  - Upside: BCG/EcoVadis — engaging suppliers → 9× likelier to hit a Scope 3 target; early decarbonization returns 3–6×. US importers cut imports 31.8% from a foreign supplier after an E/S incident (RFS) — the Shenli recall in miniature.
-  - Financing carrot: Mexican SME loans ~14.4% vs TIIE 6.76%; NAFIN reverse factoring has no fees and prices off Merit's credit → real savings for suppliers at near-zero cost to Merit. Merit has no supplier-finance program today (new).
-  - Honesty: the $150–400k requalification figure still has one source (VentureOutsource) — say "one estimate," or drop it for the McKinsey/Baxter numbers. No study links higher supplier ESG scores to fewer disruptions — frame as visibility/early warning, not causation.
-- Payback line: "If the program prevents one critical supplier failure every N years, it pays for itself."
-- **Q3 2026 earnings: Thu Oct 29 after close (call 4:30pm ET); guidance was $408–413M revenue** — refresh margin/op-income numbers that night.
+## 8 · Cost, return, fit (1:00) · C
+Keep it to **cost, breakeven, one disruption example.** The rest goes to backup B3.
+- **Cost: capped at ~$0.6M/yr** (estimate): Tier-2 subscriptions + specialist hours (~$225k at 50 suppliers), 2 coordinators (~$150–175k loaded), measurement (~$100–160k), contingency. That's **≈0.04% of revenue, ≈0.2% of non-GAAP operating income (~$308M)**. The CGI FCF target is already met (~$401M); Q2 margin was 22.6% vs the 20–22% target. *(Refresh Thu Oct 29 after Q3 earnings.)*
+- **Two independent cost builds agree:** Nolan's bottom-up model ≈ $6k per intensive supplier; ours ≈ $4.5k.
+- **Breakeven:** if one sole-source failure costs ~$2.5M (labeled assumption), the program pays for itself if it **catches one earlier every ~4 years.**
+- **Why disruption matters:** McKinsey says supply shocks cost the average medtech company **38% of a year's earnings per decade**. Merit makes ~$4.15M of revenue per day.
+- Framing: visibility and early warning, not a promise. No study shows higher ESG scores cause fewer disruptions.
 
-## 9 · Metrics & targets (0:45)
-Two coverage numbers, not one — spend **and** risk:
-| Metric | Pilot yr (2027) | 2028 | Benchmark |
+## 9 · Metrics & targets (0:45) · N
+| Metric | 2027 | 2028 | Benchmark |
 |---|---|---|---|
-| Tier 2 invited | 100% | — | — |
+| Direct spend with a rating | **85%** | 90% | Stryker: 85% target by 2027 |
+| **Critical suppliers with a traceable pack** | 60% | 90% | no peer publishes this |
 | Tier 2 completing Vitals | ≥70% | — | Bosch 71% on SME form |
-| Tier 2 completing coaching | ≥40% | — | UNGC Spain rate |
-| Tier 2 with full EcoVadis | — | ≥60%, median ≥45 | AZ min 45 |
-| Direct spend assessed | **85%** | 90% | Stryker 85% by 2027 |
-| **Critical suppliers assessed** | X% | Y% | no peer publishes this |
+| Tier 2 with full EcoVadis | — | ≥60%, median ≥45 | AZ minimum 45 |
+| Scope 3 purchased goods: share from supplier data vs estimate | report it | rising | — |
 | Tier 2 supplier retention | 100% | 100% | attrition tripwire |
-- Outcome rows (from `research/impact-measurement.md`; full 17-row KPI table there):
-  - **Workers:** % of pilot-supplier workers within Mexico's legal week (48 → 46 in 2027 → 40 by 2030) **with weekly pay held**; voluntary turnover from IMSS records (Tijuana ~7–10%); NOM-035 psychosocial survey scores (suppliers >50 staff already collect them by law)
-  - **Suppliers:** energy savings (NRDC China mills ~6%, ~14-mo payback), retained/new orders, access to finance
-  - **Patients:** supplier-caused backorders and FDA 506J shortage notifications on Tier-2 parts → target zero
-- Attribution: compare the pilot group with a wait-listed group (IFC Mexico program design) → lets Merit claim *impact*, not just outcomes.
-- Measurement adds ~$100–160k/yr (estimate) → fold into slide 8 cost.
+| Cost per accepted pack | track | falling | gates expansion |
+- **Worker outcome:** % of pilot-supplier workers inside Mexico's legal week **with weekly pay held**, plus IMSS turnover. Measured against a wait-listed comparison group so Merit can claim impact, not just activity.
+- **Patients:** supplier-caused backorders and 506J shortage notices on Tier-2 parts → target zero.
 
-## 10 · Social Impact Cycle + risks (1:00) — Social Impact 25%
-Left: the cycle (Ballard's official stages), with "love the one" at the center:
-- **Love the Problem:** small plants asked for the first time, 3–5 audits/yr, no help; workers facing the 40-hour reform
-- **Design the Change:** tiered ask + pre-fill + coach + financial carrot
-- **Implement:** Tijuana cohort via IFC PDP
-- **Evaluate:** outputs (completions) → outcomes (scores, retention, worker indicators) → impact (supply continuity for patients)
-- Lands on **socially strategic** (Ballard journey): continuity + Scope 3 are core business, not philanthropy.
-Right: unintended consequences (TOMS lesson) — harm · tripwire · owner:
-- Dependency on Merit's coach → time-boxed coaching (12 months)
-- Score-gaming → third-party scorecard, not self-assessment
-- Visibility to other buyers' demands → "one scorecard, all customers"
-- Supplier exit / cost pass-through → retention metric; no penalty in Y1
-- Hour cuts lowering pay (Foxconn) → tripwire: weekly pay per worker must hold
-- Hidden subcontracting to dodge the score → spot checks + worker voice
-- Price squeeze (55% of suppliers report it) → no price-down asks tied to the program
-- Evidence it works: Better Work (ILO/IFC, Tufts): trained supervisors → lines 22% more productive; Vietnam profitability +25% after 4 yrs; Nike lean training → ~15% lower odds of serious labor violations (not in China — honest caveat).
+## 10 · Social Impact Cycle + risks (1:00) · C
+Left: Ballard's cycle.
+- **Love the Problem:** small plants asked for the first time, 3–5 audits/yr, no help, a 40-hour reform landing on them. Start with listening sessions (Teamwork: "we listen").
+- **Design:** sort → readiness request → support matched to barrier.
+- **Implement:** Tijuana 12.
+- **Evaluate:** outputs (packs, ratings) → outcomes (retention, worker hours/pay) → impact (devices keep reaching patients).
+- Lands on **socially strategic**: supply continuity and Scope 3 are core business, not philanthropy.
 
-## 11 · What Merit says publicly + close (1:00)
-Communication plan by audience, with anti-greenwashing guardrails (echo "transparency and rigor" / "measure and demonstrate progress"):
+Right: unintended consequences (TOMS lesson) as harm · tripwire · owner:
+- Dependency on Merit's help → time-boxed support with a cap per supplier
+- Paperwork without practice → third-party evidence review; EcoVadis rejects questionnaire-only documents
+- Supplier exit / cost pass-through → retention metric; no penalties in Y1
+- Hour cuts lowering pay → tripwire: weekly pay per worker must hold
+- Hidden subcontracting → spot checks + worker voice
+- Price squeeze → no price-down asks tied to the program
+
+## 11 · What Merit says publicly + close (1:00) · E
 | Audience | What | When |
 |---|---|---|
-| Suppliers | Tier, ask, support, timeline — in their language | Dec '26 |
-| Hospitals/GPOs | One data pack: Scope 1/2 + reduction plan (Vizient/Premier asks), coverage by spend + critical suppliers, PVC/DEHP content (Providence, Intermountain screen it); NHS: published Scope 1–3 carbon plan | US: answer each GPO data request in 2027; **NHS: by Apr 1 2027** (≥10% net-zero/social-value tender weight now; Scope 1–3 plan required for £5M+/yr contracts) |
-| Board/investors | Cost vs margin, coverage KPIs, risk reduction | Quarterly |
-| Associates | Procurement/Quality roles; recruiting story | Launch + annual report |
-- Guardrails: report what's *not* yet known (Scope 3 baseline in progress); no "climate neutral"/generic claims (EU EmpCo Sept 27 2026, FTC Green Guides); partnership language, not "our suppliers are sustainable."
-- Close: the three asks of the Board (approve the rule, fund ~$0.6M, kick off Tijuana Dec 2026) + callback to the slide-1 supplier.
+| Suppliers | Their tier, the ask, the support, the timeline, in their language | Dec '26 |
+| Hospitals/GPOs | One data pack: Scope 1/2 + plan; coverage by spend **and** critical suppliers | GPO requests in 2027; **NHS Scope 1–3 plan by Apr 2027** |
+| Board/investors | Cost vs cap, coverage KPIs, risk | Quarterly |
+| Associates | Procurement/Quality roles | Launch + annual report |
+- **Guardrails:** publish what's *not* known yet (Scope 3: X% supplier data, Y% estimate). No "climate neutral" or generic claims (EU ban Sept 27 2026; FTC Green Guides). Say "working with our partners," never "our suppliers are sustainable."
+- **Close: three asks of the Board.** Approve the rule, fund a capped ~$0.6M, start Tijuana in Dec 2026. Callback: the next Shenli gets caught earlier.
 
 ---
 
-## Backup slides (Q&A only)
-- B1 · Full selection-rule scoring sheet + tier count estimate method
-- B2 · Peer benchmark table (Stryker, BD, Abbott, J&J, Philips, Medtronic)
-- B3 · Detailed cost build + sensitivity (25 vs 50 vs 100 Tier-2 suppliers)
-- B4 · China plan detail: why not RBA, IPE Blue Map, UFLPA screening
-- B5 · EcoVadis mechanics (teammate research) — scoring, Vitals vs full, what small suppliers struggle with
-- B6 · Mexico specifics (teammate research) — IFC PDP, NAFIN, labor reform, USMCA RRM
-- B7 · HEART mapping, one line per value
-- B8 · Likely Alisha Q&A (10 questions in `research/alisha-jerauld.md`)
+## Backups (Q&A only)
+- B1 · Scoring rule + tier-count estimate method
+- B2 · Peers: Stryker, BD, Abbott, J&J (EcoVadis + CDP), Philips (maturity tiers; 504 suppliers, 88% CDP response), Medtronic playbook, Schneider (700+ first-time footprints)
+- B3 · Cost build + sensitivity (25/50/100 Tier 2) + Nolan's model; McKinsey/Baxter detail
+- B4 · China: IPE Blue Map limits, EcoVadis CN, why not RBA, UFLPA
+- B5 · EcoVadis mechanics: Vitals vs full rating, Carbon Action Manager, evidence rules
+- B6 · Mexico: IFC PDP status, NAFIN, labor reform, RENE/NIS reporting (which applies to whom)
+- B7 · Scope 3 method: spend-based → supplier-specific; why a supplier's whole footprint isn't Merit's
+- B8 · Likely Alisha questions (`research/alisha-jerauld.md`)
 - B9 · Sources
 
-## Time budget check
-0:15 + 1:00 + 0:40 + 1:00 + 0:50 + 0:50 + 0:35 + 1:00 + 0:45 + 1:00 + 1:00 = **8:55** → ~1 min buffer for transitions. If over, merge 7 into 6.
-
-## Open decisions for the team
-1. Program name (Ladder? something with HEART?).
-2. Who presents which slides (Elijah = slide 2 per Wasatch pattern?).
-3. Tier-2 count to commit to on the slide (30 vs 50).
-4. Whether the teammates' Mexico/China + EcoVadis findings change Tier 2's ask (e.g., Vitals availability/pricing in Spanish/Mandarin).
+## Time check
+0:30 + 1:00 + 0:40 + 1:00 + 0:50 + 0:50 + 0:35 + 1:00 + 0:45 + 1:00 + 1:00 = **9:10**. That leaves ~50s for transitions. If dry runs go over, cut slide 3 to one line on slide 2.

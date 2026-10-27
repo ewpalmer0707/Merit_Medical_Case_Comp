@@ -11,7 +11,10 @@ Completed✅ -- 1. **Prelim slot sign-up — due Sun Oct 25 11:59 PM.** Sheet: h
    - **SOLVD "Work from Kiln – lunch provided" 9–5** and **Soft Skills Training w/ Spencer 11–12 at Kiln** — conflicts with the prelim. Tell Josh/Spencer you're at the case comp that morning (and possibly all afternoon if you make finals).
 3. **Deck PDF due Fri Oct 30 7:00 AM** to peerybfg@byu.edu. Subject AND filename: `T_23_DataNerds_BFG` (pattern `T_Team#_TeamName_BFG`). Only a PDF is required.
 
-## ▶ Next session: consolidation (start here)
+## ▶ Consolidation done Oct 27 night: read `consolidation.md` + `slide-outline.md` v2 first
+Open: confirm team name (Carbon Fighters vs Data Nerds, affects the PDF filename), program name, Tier-2 count, presenter split. Then pushback check → deck.
+
+## (Done) Consolidation brief
 Agreed at the Oct 27 team meeting: everyone writes their own idea dump into `ideas/<name>.md` and pushes, then we `git pull`, consolidate, vet against the research, and build the deck and solution.
 
 **Steps for the consolidation session:**
@@ -141,7 +144,12 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - `case-materials/Merit Medical Case.pdf` + `.txt` — the case (10 pp + exhibits + endnotes)
 - `case-materials/Judging Sheet.pdf` + `.txt` — judges' rubric (adjusted weights)
 - `case-materials/BFG Kickoff Slides.pptx` — kickoff deck (Oct 13)
-- `slide-outline.md` — draft 11-slide outline + backups (Oct 27)
+- `slide-outline.md` — 11-slide outline + backups, v2 consolidated (Oct 27)
+- `deck/Merit-Supplier-Ladder-v1.pptx` (+ `-preview.pdf`) — deck v1: 11 slides + Questions + 9 backups, speaker notes on every main slide
+- `deck-outline.md` — slide-by-slide PowerPoint build sheet (headline, on-slide text, visual, speaker beats, source)
+- `consolidation.md` — what changed from merging teammates' work, vetting table, open decisions
+- `supplier-*.md` (root) — Nolan's reporting-support proposal, emissions-data note, budget
+- `Merit_Medical_Markdown_Files.zip` — Cameron's Oct 24 handoff (conversation record, benchmarks, claims register, whiteboards)
 - `ideas/<name>.md` — each teammate's idea dump (Oct 27 process)
 - `research/financials-value.md`, `customer-esg-demands.md`, `impact-measurement.md`, `merit-real-suppliers.md`, `alisha-jerauld.md` — Oct 27 research
 - `pushback-checklist.md` — the seven judge questions the finalized approach must survive (run after research)
@@ -159,9 +167,11 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - [x] Team meeting (Oct 27) → agreed process: each member dumps ideas into `ideas/<name>.md` → pull → consolidate → vet against research → build deck
 - [x] Draft deck outline (`slide-outline.md`, Oct 27)
 - [x] Elijah's idea dump pushed (`ideas/elijah.md`, Oct 27)
-- [ ] **NEXT SESSION: consolidate everyone's `ideas/*.md`** (see section below)
+- [x] Consolidated Elijah + Nolan + Cameron inputs → `consolidation.md`, `slide-outline.md` v2 (Oct 27)
+- [ ] **Team confirms open decisions in `consolidation.md` §4 (team name first)**
 - [ ] **Run `pushback-checklist.md` against the finalized approach** (after analogue research is in)
-- [ ] Deck + financials + sources; script + Q&A prep
+- [x] Deck v1 built (`deck/`, Oct 27)
+- [ ] Team review of deck v1; script + Q&A prep
 - [ ] Dry runs (10-min hard limit); export PDF as `T_23_DataNerds_BFG.pdf`; email by Fri 7:00 AM
 
 ## Log
@@ -180,3 +190,6 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - 2026-10-27: customer-esg-demands.md back (NHS ≥10% weight + Apr 2027 Scope 1–3 gate; France env. criterion Aug 2026; US GPOs ask Scope 1/2, no numeric weight; HHS pledge ended). Folded into slides 5, 8, 11.
 - 2026-10-27: financials-value.md back (McKinsey 38% of a year's earnings/decade; $4.15M/day revenue; breakeven = prevent one sole-source failure every ~4 yrs; cost refined to ~$0.6M/yr ≈ 0.2% of non-GAAP op income; NAFIN factoring fee-free). All five research files in; slide-outline.md has no open PENDING slots.
 - 2026-10-27 (team meeting): Process agreed — individual idea dumps in `ideas/`, then pull + consolidate. Elijah's dump pushed with vetting feedback (Shenli = visibility not eco; two-track sequencing not 'low effort first'; 'score' not 'audit'; add Social Impact Cycle/supplier-return/claims/metrics). Next session = consolidation; see '▶ Next session' section at top.
+- 2026-10-27 (night): Consolidation. Inputs: ideas/elijah.md, Nolan's 3 root files, Cameron's zip (no ideas/cameron.md yet). Key changes: diagnose-then-match support from a capped fund; ladder rungs = evidence levels (estimate → reported → traceable → rated); EcoVadis rating and emissions data kept as separate asks; IFC is automotive/unconfirmed and NAFIN ESG link is our design (both reframed); Schneider uses 700+ first-time footprints. Flag: Cameron's notes say team name 'Carbon Fighters' vs 'Data Nerds' on sheet.
+- 2026-10-27 (night): deck-outline.md written: PowerPoint build sheet for the 11 slides + 9 backups, presenter split, 9:10 runtime.
+- 2026-10-27 (night): Deck v1 built from deck-outline.md → deck/Merit-Supplier-Ladder-v1.pptx (teal/amber theme, ladder motif, speaker notes). Slide 8 margin numbers need the Q3 refresh Thu Oct 29. Final PDF still needs the confirmed team name in the filename.
