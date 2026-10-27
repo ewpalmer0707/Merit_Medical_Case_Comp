@@ -15,7 +15,7 @@ Completed✅ -- 1. **Prelim slot sign-up — due Sun Oct 25 11:59 PM.** Sheet: h
 Agreed at the Oct 27 team meeting: everyone writes their own idea dump into `ideas/<name>.md` and pushes, then we `git pull`, consolidate, vet against the research, and build the deck and solution.
 
 **Steps for the consolidation session:**
-1. `git pull`. Read every `ideas/*.md`. Teammates were covering (a) what working with Mexico/China suppliers requires and (b) the EcoVadis questionnaire Merit asks suppliers to fill out.
+1. `git pull`. Read every `ideas/*.md` **plus Nolan's three files at the repo root** (`supplier-emissions-data-and-ecovadis.md`, `supplier-reporting-support.md`, `supplier-support-budget-and-decisions.md`, pushed Oct 27). Teammates were covering (a) what working with Mexico/China suppliers requires and (b) the EcoVadis questionnaire Merit asks suppliers to fill out.
 2. Merge them into one storyline, using `slide-outline.md` as the skeleton (11 slides + backups, ~8:55).
 3. Vet each idea against `research/` and `pushback-checklist.md`; flag anything unsourced.
 4. Settle the open decisions:
