@@ -1,5 +1,7 @@
 # Slide outline: T_23 · v2 (consolidated Oct 27 night)
 
+> **Superseded Oct 27 (night):** the presentation order changed (Eli problem → Cameron tiers → Nolan implementation with the AI evidence assistant → Eli feasibility → Cameron incentives → Nolan KPIs + peer stories → Cameron Social Impact Cycle + mission/vision/values). `TEAM-transcript.md` and `deck/Merit-Supplier-Ladder-v2.pptx` are now the source of truth; this file is kept for background.
+
 v2 merges Elijah's flow, Nolan's reporting-support research, and Cameron's Oct 24 handoff. **What changed and why:** `consolidation.md`. **10:00 hard limit → 11 main slides + backups, target ~9:00.** Program name (proposed): **"Merit Supplier Ladder."** Presenter initials are a proposal (E = Elijah, N = Nolan, C = Cameron).
 
 Rubric: Strategic Fit 25 · Social Impact 25 · Quant 15 · Feasibility 15 · Creativity 10 · Delivery 10.

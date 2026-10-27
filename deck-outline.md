@@ -1,5 +1,7 @@
 # PowerPoint outline: T_23 · Merit Supplier Ladder
 
+> **Superseded Oct 27 (night):** the presentation order changed (Eli problem → Cameron tiers → Nolan implementation with the AI evidence assistant → Eli feasibility → Cameron incentives → Nolan KPIs + peer stories → Cameron Social Impact Cycle + mission/vision/values). `TEAM-transcript.md` and `deck/Merit-Supplier-Ladder-v2.pptx` are now the source of truth; this file is kept for background.
+
 The build sheet for the deck. Each slide lists its **headline** (a full sentence: the takeaway the judge should leave with), **on-slide** text (only what goes on screen, ≤30 words), the **visual**, **say** (the speaker beats, not a script), and the **source** footer. Content detail lives in `slide-outline.md` v2; reasoning in `consolidation.md`.
 
 **Deck rules**

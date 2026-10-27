@@ -145,7 +145,8 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - `case-materials/Judging Sheet.pdf` + `.txt` — judges' rubric (adjusted weights)
 - `case-materials/BFG Kickoff Slides.pptx` — kickoff deck (Oct 13)
 - `slide-outline.md` — 11-slide outline + backups, v2 consolidated (Oct 27)
-- `deck/Merit-Supplier-Ladder-v1.pptx` (+ `-preview.pdf`) — deck v1: 11 slides + Questions + 9 backups, speaker notes on every main slide
+- `TEAM-transcript.md` — **the spoken script, slide by slide (source of truth for order and timing, ~9:15)**; deck speaker notes are generated from it
+- `deck/Merit-Supplier-Ladder-v2.pptx` (+ `-preview.pdf`) — deck v2: 12 slides + Questions + 11 backups, in presentation order
 - `deck-outline.md` — slide-by-slide PowerPoint build sheet (headline, on-slide text, visual, speaker beats, source)
 - `consolidation.md` — what changed from merging teammates' work, vetting table, open decisions
 - `supplier-*.md` (root) — Nolan's reporting-support proposal, emissions-data note, budget
@@ -171,7 +172,8 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - [ ] **Team confirms open decisions in `consolidation.md` §4 (team name first)**
 - [ ] **Run `pushback-checklist.md` against the finalized approach** (after analogue research is in)
 - [x] Deck v1 built (`deck/`, Oct 27)
-- [ ] Team review of deck v1; script + Q&A prep
+- [x] Presentation order set + full script (`TEAM-transcript.md`) + deck v2 (Oct 27)
+- [ ] Team review of deck v2 + script; get a real quote for the AI assistant build; Q&A prep
 - [ ] Dry runs (10-min hard limit); export PDF as `T_23_DataNerds_BFG.pdf`; email by Fri 7:00 AM
 
 ## Log
@@ -193,3 +195,4 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - 2026-10-27 (night): Consolidation. Inputs: ideas/elijah.md, Nolan's 3 root files, Cameron's zip (no ideas/cameron.md yet). Key changes: diagnose-then-match support from a capped fund; ladder rungs = evidence levels (estimate → reported → traceable → rated); EcoVadis rating and emissions data kept as separate asks; IFC is automotive/unconfirmed and NAFIN ESG link is our design (both reframed); Schneider uses 700+ first-time footprints. Flag: Cameron's notes say team name 'Carbon Fighters' vs 'Data Nerds' on sheet.
 - 2026-10-27 (night): deck-outline.md written: PowerPoint build sheet for the 11 slides + 9 backups, presenter split, 9:10 runtime.
 - 2026-10-27 (night): Deck v1 built from deck-outline.md → deck/Merit-Supplier-Ladder-v1.pptx (teal/amber theme, ladder motif, speaker notes). Slide 8 margin numbers need the Q3 refresh Thu Oct 29. Final PDF still needs the confirmed team name in the filename.
+- 2026-10-27 (night): Presentation order set by Elijah: Eli 1–3 (hook, problem, defaults) · Cameron 4 (tiers) · Nolan 5–6 (AI evidence assistant run on-site by a local consultant so supplier data never leaves; Tijuana pilot + timeline) · Eli 7 (feasibility) · Cameron 8 (incentives) · Nolan 9–10 (KPIs + peer stories) · Cameron 11–12 (Social Impact Cycle, mission/vision/values + ask). Added AI build ~$150k + ~$40k/yr (estimate) → year 1 ~$0.81M, run-rate ~$0.66M. TEAM-transcript.md written (~1,285 words, ~9:15); deck v2 rebuilt with notes from it; deck-outline/slide-outline marked superseded.
