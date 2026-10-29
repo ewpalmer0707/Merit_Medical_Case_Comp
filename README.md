@@ -1,15 +1,12 @@
 # Merit Medical × Ballard Center (Business for Good) Case Competition — Fri Oct 30 2026
 
-> Context hub for this competition. Created Oct 24 2026 from BYU email (Mail.app), Outlook attachments, the Desktop rubric, and the two Google sign-up sheets. Keep this updated as the week goes.
+> Context hub for this competition. Created Oct 24 2026 from the BFG emails, the judging sheet, and the two Google sign-up sheets. Keep this updated as the week goes.
 
 ## ⚠️ Open action items (as of Sat Oct 24)
 Completed✅ -- 1. **Prelim slot sign-up — due Sun Oct 25 11:59 PM.** Sheet: https://docs.google.com/spreadsheets/d/13atmdhv8CHWHcaP-1DkP-eUFSeb0dF6ia_5UchZ1nuU/edit
    - "Data Nerds" is already typed into **11:10 AM · Room JKB 3106 · slot ID 23**, but the **Team Lead Name and Phone cells are still blank** — fill them in (Cameron's name + day-of phone) or it may not count.
    - **Team # = the slot ID (23)**, per the Oct 24 email ("it's your Team # for the rest of the competition, including your deck file name"). Note: "The College Dropouts" overwrote their slot ID cell (10:50 AM, JKB 2107) with their registration number, which is *also* 23 — possible file-name collision. Worth a one-line email to peerybfg@byu.edu to confirm Data Nerds = T_23.
-2. **Schedule conflicts on Fri Oct 30** (from Google Calendar):
-   - **HL 288 (Thiesset) 9:00–11:50 in TNRB 2140** — Ch 9 quiz at 9:00 AM + Participation Score 2/3 due 11:50. The 11:10 prelim slot overlaps the end of class; check-in is 15 min before, in the TNRB atrium (same building). Plan: take the quiz at 9:00, leave ~10:50, or ask Thiesset (she chairs the Wasatch Cup — she'll be sympathetic).
-   - **SOLVD "Work from Kiln – lunch provided" 9–5** and **Soft Skills Training w/ Spencer 11–12 at Kiln** — conflicts with the prelim. Tell Josh/Spencer you're at the case comp that morning (and possibly all afternoon if you make finals).
-3. **Deck PDF due Fri Oct 30 7:00 AM** to peerybfg@byu.edu. Subject AND filename: `T_23_DataNerds_BFG` (pattern `T_Team#_TeamName_BFG`). Only a PDF is required.
+2. **Deck PDF due Fri Oct 30 7:00 AM** to peerybfg@byu.edu. Subject AND filename: `T_23_DataNerds_BFG` (pattern `T_Team#_TeamName_BFG`). Only a PDF is required.
 
 ## ▶ Consolidation done Oct 27 night: read `consolidation.md` + `slide-outline.md` v2 first
 Open: confirm team name (Carbon Fighters vs Data Nerds, affects the PDF filename), program name, Tier-2 count, presenter split. Then pushback check → deck.
@@ -135,11 +132,6 @@ Public data + clearly labeled assumptions; no confidential Merit data expected.
 ## Working direction (Elijah, Oct 24)
 Lead with the hardest-but-highest-impact group: small, single-plant, sole-source/hard-to-replace component makers (Mexico & China) that can't complete EcoVadis but that Merit cannot lose. Analogue research done (Oct 24): `research/analogues-buyer-programs.md` (18 buyer cases: Medtronic, Philips, Schneider, GSK/AZ, Bosch, HSBC Mexico, Continental Mexico, PSCI + harm/fatigue evidence) and `research/analogues-mexico-china.md` (IFC Mexico Supplier Development Program as a ready vehicle; CDP/HSBC incentive numbers; WRAP audit-burden survey; China: avoid RBA (MOFCOM countermeasure list Aug 2026), use IPE Blue Map / EcoVadis CN / Sedex; UFLPA stats; Tijuana cluster context; Mexico 40-hour-week labor shock).
 
-## Lessons carried over from the Wasatch Cup (Oct 1 2026, team Community Catalyst — see `../Wasatch-Cup/`)
-- What worked: one dense "core problem" slide, then the idea, implementation, evidence/financials, conclusion; a printed one-page-per-slide judge handout; backup slides for Q&A; every number traced to a source file; a full team script with Q&A prep (`TEAM-transcript-v2.md`).
-- Process: deep shared understanding of the data *before* ideating; Elijah owned the opening/core-problem section; themed deck away from school colors.
-- Differences this time: **10 min not 15** (ruthless slide count), rubric explicitly rewards the Social Impact Cycle and peer benchmarks, and the sponsor (Merit's VP ESG) is in the room — the "what suppliers get in return" and "don't over-claim" angles map directly to her two problems.
-
 ## Files
 - `case-materials/Merit Medical Case.pdf` + `.txt` — the case (10 pp + exhibits + endnotes)
 - `case-materials/Judging Sheet.pdf` + `.txt` — judges' rubric (adjusted weights)
@@ -156,13 +148,12 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - `pushback-checklist.md` — the seven judge questions the finalized approach must survive (run after research)
 - `problem-brief.md` — plain-language mastery of the problem + key research answers (read this first)
 - `research/outside-research.md` (~7,700 words, 10 sections, URLs inline, [NOT FOUND]/[UNVERIFIED] flags) + `research/sources.txt` (158 URLs) — Merit reports, EcoVadis, peer programs, finance models, Social Impact Cycle, TOMS, greenwashing law, shortages
-- Originals also live in Outlook's attachment cache and `~/Desktop/Merit Medical Case Competition Judging Sheet.pdf`.
 
 ## Status
 - [x] Materials pulled + extracted (Oct 24)
 - [x] Team, logistics, rubric recorded (Oct 24)
 - [x] Prelim slot row completed (teammate marked done in README, Oct 27)
-- [ ] Confirm Team # (23) with BFG; tell SOLVD + Thiesset about Fri morning
+- [ ] Confirm Team # (23) with BFG
 - [x] Outside research + analogue research done (Oct 24); [ ] team reads problem-brief + research
 - [ ] Check Merit Q3 2026 earnings (Oct 29) before presenting
 - [x] Team meeting (Oct 27) → agreed process: each member dumps ideas into `ideas/<name>.md` → pull → consolidate → vet against research → build deck
@@ -177,7 +168,7 @@ Lead with the hardest-but-highest-impact group: small, single-plant, sole-source
 - [ ] Dry runs (10-min hard limit); export PDF as `T_23_DataNerds_BFG.pdf`; email by Fri 7:00 AM
 
 ## Log
-- 2026-10-24: Folder created. Sources: BFG emails Oct 16 (case + kickoff slides) and Oct 24 (slot sign-up + adjusted rubric); Desktop judging sheet; both Google sheets read. Found Data Nerds already in the 11:10 JKB 3106 slot (ID 23) with lead/phone blank. Calendar conflicts on Oct 30 noted (HL 288 class/quiz, SOLVD Kiln day). Research agent launched for outside sources.
+- 2026-10-24: Folder created. Sources: BFG emails Oct 16 (case + kickoff slides) and Oct 24 (slot sign-up + adjusted rubric); Desktop judging sheet; both Google sheets read. Found Data Nerds already in the 11:10 JKB 3106 slot (ID 23) with lead/phone blank. Research agent launched for outside sources.
 - 2026-10-24 (later): `problem-brief.md` written. Research agent finished: emissions 'discrepancy' resolved (2024 excluded refrigerants; real story is −2% vs 2020 against −40% goal); FCF target already met ($401M); Merit publishes no EcoVadis coverage numbers; peer targets collected (Stryker 85% by 2027, BD, Abbott, J&J, Philips); NHS CRP requirement Apr 2027; IFC Mexico SME program.
 - 2026-10-24 (eve): Direction chosen: focus on high-power/low-readiness small suppliers. Two research agents launched for analogues (buyer programs across industries; Mexico/China SME programs).
 - 2026-10-24 (eve): Buyer-program analogues done → research/analogues-buyer-programs.md (18 cases + 10 thinner, evidence section, patterns, borrowable numbers). Mexico/China agent still running.
